@@ -262,9 +262,9 @@ async def monitor_server():
 ## Project Information
 
 * **Author**: abakedserver
-* **Homepage**: [https://github.com/yourusername/abakedserver](https://github.com/yourusername/abakedserver)
-* **Repository**: [https://github.com/yourusername/abakedserver](https://github.com/yourusername/abakedserver)
-* **Issue Tracker**: [https://github.com/yourusername/abakedserver/issues](https://github.com/yourusername/abakedserver/issues)
+* **Homepage**: [https://github.com/yourusername/abakedserver](https://github.com/asemenyaka-tmp/abakedserver)
+* **Repository**: [https://github.com/yourusername/abakedserver](https://github.com/asemenyaka-tmp/abakedserver)
+* **Issue Tracker**: [https://github.com/yourusername/abakedserver/issues](https://github.com/asemenyaka-tmp/abakedserver/issues)
 
 ## License
 
